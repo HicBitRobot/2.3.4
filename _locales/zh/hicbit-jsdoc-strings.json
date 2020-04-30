@@ -4,6 +4,7 @@
 	"hicbit_control.wait_s":"等待指定时间（秒）",
 	"hicbit_control.wait_ms":"等待指定时间（毫秒）",
 
+	"hicbit.hicbit_set_Single_motor": "设置电机速度(-255~255)和电机功能",
 	"hicbit.hicbit_setMotorSpeed0":"设置电机速度，速度范围-255到255，控制电机正反转",
 	"hicbit.hicbit_StopMotor":"电机停止",
 	"hicbit.hicbit_setMotorSpeed":"设置电机速度和时间，速度范围-255到255，控制电机正反转",

@@ -162,8 +162,9 @@ namespace hicbit {
     /**
     *	Set interface motor speed , range of -255~255, that can control turn.
     */
-    //% weight=100 blockId=hicbit_setMotorSpeed0 block="Set |port %port| motor|speed %speed| Features| %Features |:| %content |"
+    //% weight=100 blockId=hicbit_set_Single_motor block="Set |port %port| motor|speed %speed| Features| %Features |:| %content |"
     //% speed.min=-255 speed.max=255 
+    //% blockExternalInputs=1
     export function hicbit_set_Single_motor(port: hicbit_Port, speed: number, Features: hicbit_Features, content: number) {
         //启动变量
         let Turn: number = 0;

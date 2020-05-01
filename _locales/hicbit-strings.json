@@ -80,7 +80,7 @@
   "hicbit.hicbit_setMotorSpeed|block": "Set |port %port| motor|speed %speed|and|time(s) %time|",
   "hicbit.hicbit_setMotorstop1|block": "Set motor1 and motor2 stop",
   "hicbit.hicbit_setMotorstop2|block": "Set motor3 and motor4 stop",
-  "hicbit.hicbit_set_Single_motor|block": "Set |port %port| motor|speed %speed| Features| %Features | | %content |",
+  "hicbit.hicbit_set_Single_motor|block": "Set |port %port| motor|speed %speed| |Features %Features| |: %content|",
   "hicbitLight.All|block": "All",
   "hicbitLight.Light1|block": "Light 1",
   "hicbitLight.Light2|block": "Light 2",
